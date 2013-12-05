@@ -1,0 +1,13 @@
+{
+  "name": "ignoreit",
+  "version": "0.0.1",
+  "description": "implements ignorify for the current mutation of the browserify interface",
+  "main": "index.js",
+  "author": {
+    "name": "Liam Doherty"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.3.4"
+  }
+}
